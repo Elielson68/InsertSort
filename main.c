@@ -21,7 +21,7 @@ void ShowNums(int n[]){
 }
 
 int main(void) {
-  int nums[]= {5,2,3,6,7,9,1,4};
+  int nums[]= {5,2,3,6,7,9,1, 4, 8};
   InsertSort(nums, 9);
   ShowNums(nums);
   return 0;
